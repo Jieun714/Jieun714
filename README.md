@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 </div>
-<br/>
+<br>
 
 <h4 align="center">🛠️Tools🛠️</h4>
 <div align="center">
@@ -54,18 +54,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
 </div>
 
-<br/>
-<!-- github -->
+<br><br>
+<!-- github/boj -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jieun714&layout=compact"><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Jieun714&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jieun714&layout=compact"> &nbsp; 
+    <img src="https://github-readme-stats.vercel.app/api?username=Jieun714&show_icons=true"><br><br>
+    	 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lje71421)](https://solved.ac/lje71421)
 </div>
-
-<br/>
-<!-- boj -->
-<div align="center">
-    [![Solved.ac
-        프로필](http://mazassumnida.wtf/api/generate_badge?boj=lje71421)](https://solved.ac/lje71421)
-</div>
-
-
