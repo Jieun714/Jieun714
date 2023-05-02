@@ -34,13 +34,21 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=BootStrap&logoColor=white" />
 </div>
 <br/>
+
 <h3 align="center">🛠️Tools🛠️</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipse&logoColor=white" />
     <img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=Intellij&logoColor=white" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" />
-    
 </div>
 
+<div align="center">
+    <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/ozreport-F97B22?style=flat&logo=ozreport&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" />
+</div>
 
