@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jieun714&layout=compact"> &nbsp; 
     <img src="https://github-readme-stats.vercel.app/api?username=Jieun714&show_icons=true"><br><br>
-    	 
+ 
+    <h4> 🥈 Algorithm Silver Level</h4>
+    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lje71421)](https://solved.ac/lje71421)
 </div>
