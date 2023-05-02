@@ -1,21 +1,4 @@
 
-<!--
- ### Hi there 👋
-
-**Jieun714/Jieun714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <br>
 
 ```markdown
@@ -73,7 +56,6 @@ Experiences
 
 <!-- github/boj -->
 <div> 
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jieun714&layout=compact"> &nbsp; -->
     <img src="https://github-readme-stats.vercel.app/api?username=Jieun714&show_icons=true" /> <br>
     <h3>🥈 Algorithm Silver Level</h3>
 
