@@ -6,11 +6,12 @@
 
 ```markdown
 Who Am I
-🌱 I’m currently learning Spring Framework.
+🌱 I’m currently learning Cloud and Spring Framework.
 👩‍💻 I’m majoring in Mobile Software & Web Engineering at Hansung University.
 
 Experiences
-📚 KB 국민은행 IT's your Life 3기 (2023.03 ~ 2023.05)
+📘 프로 디지털 아카데미 (2023.07 ~ )
+📙 KB 국민은행 IT's your Life 3기 (2023.03 ~ 2023.05)
 🎓 Graduate from Hansung University (2017.03 ~ 2022.08)
 🏢 Internship at White Information Networking Co (2021.07 ~ 2022.02)
 🏅 Excellence Prize, Web field of Capstone Design at Hansung University (2021.03 ~ 2021.06)
