@@ -11,7 +11,7 @@ Who Am I
 
 Experiences
 📘 Pro Digital Academy (2023.07 ~ )
-📙 KB 국민은행 IT's your Life 3기 (2023.03 ~ 2023.05)
+📙 KB IT's your Life 3기 (2023.03 ~ 2023.05)
 🎓 Graduate from Hansung University (2017.03 ~ 2022.08)
 🏢 Internship at White Information Networking Co (2021.07 ~ 2022.02)
 🏅 Excellence Prize, Web field of Capstone Design at Hansung University (2021.03 ~ 2021.06)
