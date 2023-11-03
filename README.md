@@ -9,7 +9,7 @@ Who Am I
 👩‍💻 I’m majoring in Mobile Software & Web Engineering at Hansung University.
 
 Experiences
-📘 Pro Digital Academy (2023.07 ~ )
+📘 Pro Digital Academy (2023.07 ~ 2023.10)
 📙 KB IT's your Life 3기 (2023.03 ~ 2023.05)
 🎓 Graduate from Hansung University (2017.03 ~ 2022.08)
 🏢 Internship at White Information Networking Co (2021.07 ~ 2022.02)
