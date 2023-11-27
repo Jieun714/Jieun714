@@ -9,7 +9,7 @@ Who Am I
 👩‍💻 I’m majoring in Mobile Software & Web Engineering at Hansung University.
 
 Experiences
-👩‍💼 Internship at Shinhan Securities (2023.10 ~ )
+👩‍💼 Internship at Shinhan Securities (2023.10 ~ 2023.11)
 📘 Pro Digital Academy 2기 (2023.07 ~ 2023.10)
 📙 KB IT's your Life 3기 (2023.03 ~ 2023.05)
 🎓 Graduate from Hansung University (2017.03 ~ 2022.08)
