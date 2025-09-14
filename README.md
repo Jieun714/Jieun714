@@ -9,7 +9,7 @@
   ∙ I’m majoring in Mobile Software & Web Engineering at Hansung University.
 
 🎓 Education
-  ∙ Graduate from Hansung University (2017.03 ~ 2022.08)
+  ∙ Graduate from oo University (2017.03 ~ 2022.08)
   ∙ Studying English at EC English in Australia(2019.05 ~ 2019.08)
 
 📘 Activity
