@@ -26,7 +26,7 @@
   ∙ SQLD(SQL Developer)(2022.06.24)
 
 🏅 Awards
-  ∙ Excellence Prize, Web field of Capstone Design at Hansung University (2021.03 ~ 2021.06)
+  ∙ Excellence Prize, Web field of Capstone Design at oo University (2021.03 ~ 2021.06)
 
 ```
 <br>
